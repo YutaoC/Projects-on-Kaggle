@@ -6,3 +6,6 @@ https://www.kaggle.com/c/digit-recognizer
 
 ## Titanic: Machine Learning from Disaster
 https://www.kaggle.com/c/titanic
+
+## House Prices: Advanced Regression Techniques
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
